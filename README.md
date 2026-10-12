@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/saida.gif" width="720" alt="Animação 3D: uma pokébola abre e Gabriel surge no lugar da criatura.">
+<img src="assets/arremesso.gif" width="540" alt="Animação original: Gabriel arremessa a bola e, em seguida, entra o retrato.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
 
-A pokébola abre, e quem sai sou eu.<br>
+Primeiro o arremesso. Depois, eu.<br>
 Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 [LinkedIn](https://www.linkedin.com/in/devggoncalves/)
@@ -40,4 +40,4 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 Conta pessoal de estudos. No público estão o otimizador de desempenho, o SaaS jurídico e as anotações de banco e interface.
 
-<sub>Cena 3D original, com a foto de perfil no rosto do boneco. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
+<sub>Animação original, com a foto de perfil no arremesso e o retrato em seguida. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
