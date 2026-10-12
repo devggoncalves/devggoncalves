@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/arremesso.gif" width="540" alt="Animação original: Gabriel arremessa a bola e, em seguida, entra o retrato.">
+<img src="assets/arremesso.gif" width="720" alt="GIF da ilustração do arremesso, seguido do retrato.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
@@ -40,4 +40,4 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 Conta pessoal de estudos. No público estão o otimizador de desempenho, o SaaS jurídico e as anotações de banco e interface.
 
-<sub>Animação original, com a foto de perfil no arremesso e o retrato em seguida. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
+<sub>GIF feito a partir da ilustração do arremesso, seguido do retrato. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
