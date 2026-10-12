@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/encontro.gif" width="800" alt="Animação de um encontro: a pokébola balança, abre num clarão e a frase da caixa de diálogo muda.">
+<img src="assets/batalha.gif" width="720" alt="Abertura de batalha: Red, de costas, lança a Pokébola contra o sprite do Gabriel.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
 
-Um dev selvagem apareceu.<br>
+Gabriel quer batalhar.<br>
 Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 [LinkedIn](https://www.linkedin.com/in/devggoncalves/)
@@ -40,4 +40,4 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 Conta pessoal de estudos. No público estão o otimizador de desempenho, o SaaS jurídico e as anotações de banco e interface.
 
-<sub>Ilustração original, inspirada na franquia. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
+<sub>Pixel art original, inspirado na abertura de batalha. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
