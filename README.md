@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/arremesso.gif" width="480" alt="Um GIF: o arremesso e, em seguida, o retrato.">
+<img src="assets/arremesso.gif" width="720" alt="Um GIF: o arremesso no tamanho original e, em seguida, o retrato.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
