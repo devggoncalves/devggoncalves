@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/arremesso.gif" width="720" alt="GIF da ilustração do arremesso, seguido do retrato.">
+<img src="assets/arremesso.gif" width="720" alt="Ilustração do arremesso.">
+<img src="assets/retrato.gif" width="360" alt="Retrato do Gabriel.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
@@ -40,4 +41,4 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 Conta pessoal de estudos. No público estão o otimizador de desempenho, o SaaS jurídico e as anotações de banco e interface.
 
-<sub>GIF feito a partir da ilustração do arremesso, seguido do retrato. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
+<sub>Dois GIFs separados: a ilustração do arremesso e o retrato. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
