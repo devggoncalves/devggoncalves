@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/batalha.gif" width="720" alt="Abertura de batalha: Red, de costas, lança a Pokébola contra o sprite do Gabriel.">
+<img src="assets/saida.gif" width="720" alt="Animação 3D: uma pokébola abre e Gabriel surge no lugar da criatura.">
 
 # Gabriel
 **Desenvolvedor em treinamento** · Santo André, SP
 
-Gabriel quer batalhar.<br>
+A pokébola abre, e quem sai sou eu.<br>
 Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 [LinkedIn](https://www.linkedin.com/in/devggoncalves/)
@@ -40,4 +40,4 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 Conta pessoal de estudos. No público estão o otimizador de desempenho, o SaaS jurídico e as anotações de banco e interface.
 
-<sub>Pixel art original, inspirado na abertura de batalha. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
+<sub>Cena 3D original, com a foto de perfil no rosto do boneco. Sem afiliação com a Nintendo, a Game Freak ou a The Pokémon Company.</sub>
