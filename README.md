@@ -3,9 +3,9 @@
 <img src="assets/arremesso.gif" width="720" alt="Um GIF: o arremesso no tamanho original e, em seguida, o retrato.">
 
 # Gabriel
-**Desenvolvedor em treinamento** · Santo André, SP
+**Desenvolvedor Pleno** · Santo André, SP
 
-Primeiro o arremesso. Depois, eu.<br>
+PRONTO PRA BATALHA.<br>
 Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 
 [LinkedIn](https://www.linkedin.com/in/devggoncalves/)
@@ -19,7 +19,7 @@ Estudo, construo ferramentas e deixo o Windows no ponto para jogar.
 | | |
 | --- | --- |
 | **ID** | `devggoncalves` |
-| **Classe** | Dev em treinamento |
+| **Classe** | Dev Pleno |
 | **Região** | Santo André, SP |
 | **Tipo** | Aço · Elétrico |
 | **Golpe** | Otimizar o PC e continuar estudando |
